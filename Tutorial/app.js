@@ -1,2 +1,2 @@
 // app file
-console.log("hello")
+console.log("this is the app file")
